@@ -17,6 +17,15 @@ public class MyStack {
     }
 
     public int pop(){
+        if (!queue1.isEmpty()){
+            return queue1.poll();
+        }
+        else {
+            return 0;
+        }
+    }
+
+    public int top(){
         return 0;
     }
 }
