@@ -26,6 +26,11 @@ public class MyStack {
     }
 
     public int top(){
-        return 0;
+        if (!queue1.isEmpty()){
+            return queue1.peek();
+        }
+        else{
+            return 0;
+        }
     }
 }
