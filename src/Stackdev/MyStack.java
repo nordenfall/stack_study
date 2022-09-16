@@ -1,8 +1,7 @@
-package StackClass;
+package Stackdev;
 
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.concurrent.LinkedBlockingQueue;
 
 public class MyStack {
     Queue<Integer> queue1 = new LinkedList<>();

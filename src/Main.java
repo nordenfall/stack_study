@@ -1,4 +1,4 @@
-import StackClass.MyStack;
+import Stackdev.MyStack;
 
 public class Main {
     public static void main(String[] args){
