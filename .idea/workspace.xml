@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fe0b665-b2f9-4c72-bfbd-e65febc5e22d" name="Changes" comment="" />
+    <list default="true" id="4fe0b665-b2f9-4c72-bfbd-e65febc5e22d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stackdev/FrontMiddleBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stackdev/FrontMiddleBack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +33,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/JAVAprojects/stack"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663321956908</updated>
-      <workItem from="1663321958524" duration="7133000" />
+      <workItem from="1663321958524" duration="8108000" />
+      <workItem from="1663339017239" duration="743000" />
     </task>
     <servers />
   </component>
