@@ -9,7 +9,7 @@ public class MyStack {
     Queue<Integer> queue2 = new LinkedList<>();
     public void push(int x){
         queue2 = queue1;
-        //queue1 = new LinkedList<>();
+        queue1 = new LinkedList<>();
         queue1.add(x);
         for (int s : queue2){
             queue1.add(s);
