@@ -33,4 +33,8 @@ public class MyStack {
             return 0;
         }
     }
+
+    public boolean empty(){
+        return queue1.isEmpty();
+    }
 }
