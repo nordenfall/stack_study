@@ -1,4 +1,4 @@
-package Stackdev;
+/*package Stackdev;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -12,4 +12,4 @@ public class FrontMiddleBack {
     public void pushFront(int val){
         queue.
     }
-}
+}*/

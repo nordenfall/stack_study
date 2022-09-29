@@ -1,4 +1,4 @@
-import Stackdev.MyStack;
+/*import Stackdev.MyStack;
 
 public class Main {
     public static void main(String[] args){
@@ -9,4 +9,9 @@ public class Main {
         System.out.println(stack.pop());
         System.out.println(stack.empty());
     }
+
+    public static void practice(){
+
+    }
 }
+*/

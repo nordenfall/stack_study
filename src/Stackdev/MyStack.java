@@ -1,4 +1,4 @@
-package Stackdev;
+/*package Stackdev;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -36,4 +36,4 @@ public class MyStack {
     public boolean empty(){
         return queue1.isEmpty();
     }
-}
+}*/
