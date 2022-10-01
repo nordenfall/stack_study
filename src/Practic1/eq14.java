@@ -14,8 +14,8 @@ public class eq14 {
         int max = 0;
 
         for (int l = 0; l < i; l++){
-            int num = scan.nextInt();
             if (scan.hasNextInt()){
+                int num = scan.nextInt();
                 mas[l] = num;
                 if(mas[l] > max){
                     max = mas[l];
@@ -27,7 +27,7 @@ public class eq14 {
         }
 
         int id = 0;
-        while(id != i - 1){
+        while(id != i){
             sum += mas[id];
             id++;
         }

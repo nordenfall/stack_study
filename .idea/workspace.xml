@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fe0b665-b2f9-4c72-bfbd-e65febc5e22d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practic1/eq14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/eq14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic1/eq14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <workItem from="1663339017239" duration="743000" />
       <workItem from="1663887508907" duration="2041000" />
       <workItem from="1664461603249" duration="2550000" />
-      <workItem from="1664618449200" duration="1760000" />
+      <workItem from="1664618449200" duration="2425000" />
     </task>
     <servers />
   </component>
@@ -66,16 +66,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practic1/eq14.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
