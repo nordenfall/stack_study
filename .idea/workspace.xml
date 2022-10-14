@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fe0b665-b2f9-4c72-bfbd-e65febc5e22d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practic1/eq15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practic1/eq16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic1/eq17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
       <workItem from="1663887508907" duration="2041000" />
       <workItem from="1664461603249" duration="2550000" />
       <workItem from="1664618449200" duration="3907000" />
-      <workItem from="1665741740164" duration="456000" />
+      <workItem from="1665741740164" duration="1610000" />
     </task>
     <servers />
   </component>
