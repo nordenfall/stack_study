@@ -1,4 +1,4 @@
-package Practic1;
+package Practice1;
 
 public class eq16 {
     public static void main(String[] args){

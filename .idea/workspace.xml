@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fe0b665-b2f9-4c72-bfbd-e65febc5e22d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practic1/eq17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/eq13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/eq13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/eq14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/eq14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/eq15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/eq15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/eq16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/eq16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/eq17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/eq17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EqT853nqZgf7uAyKY7e0ymu5z3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,7 +61,9 @@
       <workItem from="1663887508907" duration="2041000" />
       <workItem from="1664461603249" duration="2550000" />
       <workItem from="1664618449200" duration="3907000" />
-      <workItem from="1665741740164" duration="1610000" />
+      <workItem from="1665741740164" duration="2223000" />
+      <workItem from="1665746604683" duration="381000" />
+      <workItem from="1665754569669" duration="1265000" />
     </task>
     <servers />
   </component>

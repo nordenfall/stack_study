@@ -1,4 +1,4 @@
-package Practic1;
+package Practice1;
 
 public class eq13 {
     public static void res(int[] mas){

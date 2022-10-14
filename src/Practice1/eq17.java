@@ -1,4 +1,4 @@
-package Practic1;
+package Practice1;
 import java.util.Scanner;
 
 public class eq17 {
