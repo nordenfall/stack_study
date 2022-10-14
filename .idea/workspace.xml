@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fe0b665-b2f9-4c72-bfbd-e65febc5e22d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practic1/eq15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic1/eq16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic1/eq14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic1/eq14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/JAVAprojects/stack&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +55,8 @@
       <workItem from="1663339017239" duration="743000" />
       <workItem from="1663887508907" duration="2041000" />
       <workItem from="1664461603249" duration="2550000" />
-      <workItem from="1664618449200" duration="2425000" />
+      <workItem from="1664618449200" duration="3907000" />
+      <workItem from="1665741740164" duration="456000" />
     </task>
     <servers />
   </component>
